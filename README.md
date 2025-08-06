@@ -49,7 +49,3 @@
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/murilo0077/murilo0077/output/snake.svg" alt="Snake animation" />
-
-###
