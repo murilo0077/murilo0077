@@ -56,7 +56,7 @@
 
 ###
 
-<h5 align="center">Nome: Murilo Otavio<br>Curso: técnico em des. de sistemas<br>Componente que mais gostou no Curso: front-end<br>Hobby: criar<br>Linguagens que vamos trabalhar esse ano: Python, JavaScript, HTML5 e CSS</h5>
+<h5 align="left">Nome: Murilo Otavio<br>Curso: técnico em des. de sistemas<br>Componente que mais gostou no Curso: front-end<br>Hobby: criar<br>Linguagens que vamos trabalhar esse ano: Python, JavaScript, HTML5 e CSS</h5>
 
 ###
 
